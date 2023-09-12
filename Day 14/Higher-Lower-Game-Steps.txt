@@ -1,0 +1,11 @@
+# Import art to print logo
+
+#Extract data from game_data file
+
+# Choose 2 random choices to compare their follower. compare A and Against B
+
+# Ask user to answer "Who has more followers?: Type 'A' or 'B'"
+
+#Check if user type right answer then continue the game and if give wrong answer the end the game and show final score
+
+# Calculate score after all correct answers. Keep track of score
